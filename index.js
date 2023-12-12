@@ -4,7 +4,7 @@ const fs = require('fs')
 
 const smtpConfig = {
     auth: {
-        user: "hamza.b.snipers@gmail.com",
+        user: "hamza@gmail.com",
         pass: "ecnshzfqvvtptgwa"
     },
     service: "gmail"
